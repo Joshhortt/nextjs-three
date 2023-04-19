@@ -8,7 +8,7 @@ In this series, we’re continuing through the basics of learning the new featur
 
 Read the related Blog article for this repository:
 
-[![Take Your Next.js 13 App to the Next Level with New Routing Enhancements, Dynamic Layouts, and Efficient Links](https://cdn.hashnode.com/res/hashnode/image/upload/v1680630447745/SNkawxhgz.png?auto=compress)](https://creativelightbox.net/take-your-nextjs-13-app-to-the-next-level-with-new-routing-enhancements-dynamic-layouts-and-efficient-links)
+[![Take Your Next.js 13 App to the Next Level with CSS modules & loading with React suspense](https://cdn.hashnode.com/res/hashnode/image/upload/v1681897377365/uOhSCIvZf.png?auto=format)]()
 
 ## ✅ Author Links
 
@@ -69,7 +69,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ```
 🟨
-    nextjs-two
+    nextjs-three
     |
     ├── .next
     |
